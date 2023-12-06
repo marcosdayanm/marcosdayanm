@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img target="_blank" src="https://skillicons.dev/icons?i=gcp, mysql, git, github, arduino, py, c, cpp, html, css, jsbootstrap, flask, django, react"/>
+    <img target="_blank" src="https://skillicons.dev/icons?i=gcp,mysql,git,github,arduino,py,c,cpp,html,css,js,bootstrap,flask,django,react"/>
   </a>
 </p>
 <!--- stats (start) -->
