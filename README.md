@@ -18,9 +18,12 @@
 
 <!--tech stack icons-->
 <p align="center">
-    	<img target="_blank" src="https://skillicons.dev/icons?i=gcp,mysql,git,github,arduino"/>
-	<img target="_blank" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js"/>
-	<img target="_blank" src="https://skillicons.dev/icons?i=bootstrap,flask,django,react"/>
+    	<img src="https://skillicons.dev/icons?i=gcp,mysql,git,github,arduino"/>
+	<br>
+	<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js"/>
+	<br>
+	<img src="https://skillicons.dev/icons?i=bootstrap,flask,django,react"/>
+	<br>
 </p>
 <!--- stats (start) -->
 <br>
