@@ -8,7 +8,7 @@
 
 - I am currently studying B.S. in Computer Science and Technology Engineering
 - Check out my personal website at <a href="http://marcosdayan.com" target="_blank">Link!</a>
-- Let's connect at <a href="https://www.linkedin.com/in/marcos-dayan-mann-773042202/" target="_blank"><img align="center" width="20" src="https://skillicons.dev/icons?i=linkedin"/>
+- Let's connect at <a href="https://www.linkedin.com/in/marcos-dayan-mann-773042202/" target="blank"><img align="center" width="20" src="https://skillicons.dev/icons?i=linkedin"/>
 
 <br><br>
 <!--- Skills (start) -->
