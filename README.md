@@ -1,6 +1,6 @@
 ## Hi there, I'm Marcos Dayan Mann 👋
 
-<div class="centered">## Hi there, I'm Marcos Dayan Mann 👋</div>
+<div class="center">## Hi there, I'm Marcos Dayan Mann 👋</div>
 <!--
 **marcosdayanm/marcosdayanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
