@@ -7,9 +7,9 @@
 ##  **About me**
 <br>
 
-- A passionate Self-taught Full-stack Developer
-- Currently studying Engineering in Computer Science and Technology
-- Personal website <a href="http://marcosdayan.com" target="_blank">Link</a>
+- I am currently studying B.S. in Computer Science and Technology Engineering
+- Check out my personal website at <a href="http://marcosdayan.com" target="_blank">Link!</a>
+- Let's connect at <a href="https://www.linkedin.com/in/marcos-dayan-mann-773042202/" target="_blank"><img align="center" width="20" src="https://skillicons.dev/icons?i=linkedin"/>
 
 <br><br>
 <!--- Skills (start) -->
@@ -54,11 +54,4 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=marcosdayanm&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-<!--- Lets connect (start) -->
-<br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
-<br>
-
-<a href="https://www.linkedin.com/in/marcos-dayan-mann-773042202/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin," />
