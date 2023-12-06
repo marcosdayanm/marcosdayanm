@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <h1 align="center"><b>Hi , I'm Marcos Dayan Mann </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--- About me (start) -->
 <br>
@@ -9,7 +9,7 @@
 
 - A passionate Self-taught Full-stack Developer
 - Currently studying Engineering in Computer Science and Technology
-- Personal website [link](http://marcosdayan.com)
+- Personal website <a href="http://marcosdayan.com" target="_blank">Link</a>
 
 <br><br>
 <!--- Skills (start) -->
@@ -19,7 +19,11 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,arduino,au,autocad,aws,azure,blender,c,codepen,css,discord,figma,git,github,html,ai,js,latex,matlab,mysql,nextjs,nodejs,ps,php,postgres,pr,py,r,rails,replit,ruby,stackoverflow,svg,unity,unreal,visualstudio,vscode,wordpress,xd&perline=14" />
+    <img target="_blank" src="https://skillicons.dev/icons?i=
+	    gcp, mysql, git, github, arduino, 
+	    py, c, cpp, html, css, js,
+	    bootstrap, flask, django, react
+	     "/>
   </a>
 </p>
 <!--- stats (start) -->
