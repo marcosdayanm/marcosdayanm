@@ -20,7 +20,7 @@
     	<img src="https://skillicons.dev/icons?i=gcp,mysql,git,github,arduino"/>
 </p>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js"/>
+	<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,sass,js"/>
 </p>
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=bootstrap,flask,django,react"/>
