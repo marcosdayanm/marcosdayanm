@@ -18,7 +18,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - Passionate about serverless, microservices architectures and complex cloud workflows, backend engineering, and generative AI  
   
@@ -32,12 +32,9 @@
 - Currently studying B.S. Computer Science and Technology Engineering at [Tecnológico de Monterrey](https://tec.mx/en)  
 
 
-</td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
-
+<br/>  
+<br/>  
 <br/>  
 
 
@@ -60,7 +57,10 @@
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 </div>  
 
-<br/>  
+<br/>
+<br/>
+<br/>
+<br/>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=marcosdayanm&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
