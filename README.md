@@ -1,45 +1,66 @@
-<!--horizontal divider(gradiant)-->
-<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<h1 align="center"><b>Hi , I'm Marcos Dayan Mann </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--- About me (start) -->
-<br>
-	
-##  **About me**
+## Hey 👋, I'm Marcos Dayan Mann  
+  
 
-- I am currently studying B.S. in Computer Science and Technology Engineering
-- Check out my personal website at <a href="http://marcosdayan.com" target="_blank">Link!</a>
-- Let's connect at <a href="https://www.linkedin.com/in/marcos-dayan-mann-773042202/" target="_blank"><img align="center" width="20" src="https://skillicons.dev/icons?i=linkedin"/>
-
-<br><br>
-<!--- Skills (start) -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<!--tech stack icons-->
-<p align="center">
-    	<img src="https://skillicons.dev/icons?i=gcp,mysql,git,github,arduino"/>
-</p>
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,sass,js"/>
-</p>
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=bootstrap,flask,django,react"/>
-</p>
-<!--- stats (start) -->
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Trophies </b>
-
-
-<div align="center">
-
-<a href="https://github.com/marcosdayanm/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosdayanm&show_icons=true&locale=en&layout=compact&line_height=15&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<div align="right">
+<a href="https://github.com/marcosdayanm" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://linkedin.com/in/marcos-dayan-mann-773042202" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<br>
-<br>
+***<div align="center">Go visit my personal website at [marcosdayan.com](https://marcosdayan.com)</div>***  
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- Passionate about serverless, microservices architectures and complex cloud workflows, backend engineering, and generative AI  
+  
+
+- Currently working at [Nubosoft](https://nubosoft.com) as a Software Engineer  
+  
+
+- Certified as a [Professional Cloud Architect](https://www.credly.com/badges/ff83e24a-c6f0-45a3-832c-4ace25471f4c/linked_in_profile) on Google Cloud Platform  
+  
+
+- Currently studying B.S. Computer Science and Technology Engineering at [Tecnológico de Monterrey](https://tec.mx/en)  
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+</div>  
+
+<br/>  
 
  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=marcosdayanm&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
